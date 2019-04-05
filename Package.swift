@@ -11,8 +11,8 @@ let package = Package(
     dependencies: [
         .package(url: "https://github.com/kylef/Commander.git",
                  from: "0.0.0"),
-        .package(url: "https://github.com/ishkawa/APIKit.git",
-                 from: "4.0.0"),
+        .package(url: "https://github.com/el-hoshino/APIKit.git",
+                 from: "10.0.0"),
         .package(url: "https://github.com/IBM-Swift/HeliumLogger.git",
                  from: "1.0.0"),
         .package(url: "https://github.com/behrang/YamlSwift.git",
